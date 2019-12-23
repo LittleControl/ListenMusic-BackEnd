@@ -1,0 +1,22 @@
+{
+  "name": "listenmusic-backend",
+  "version": "1.0.0",
+  "description": "ListenMusic项目的后台程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleControl/ListenMusic-BackEnd.git"
+  },
+  "author": "LittleControl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleControl/ListenMusic-BackEnd/issues"
+  },
+  "homepage": "https://github.com/LittleControl/ListenMusic-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
